@@ -1,0 +1,4 @@
+2021-02-13 14:52:21.695632  ID: india vs england5221695632 status: False
+2021-02-13 14:52:37.923406  Checking status: True
+2021-02-13 14:52:41.941270  {'A': 'India', 'B': 'England', 'Ascore': '205/3', 'Bscore': '', 'scoreinfo': '(58.4 ov)', 'over': '58.4', 'ballinfo': 'Stone to Rahane, FOUR runs', 'commentary': 'short, sits up at waist height just outside off, and Rahane finds the gap to the right of deep square leg with a short-arm pull', 'run': '•', 'status': 'Day 1 - Session 3: India chose to Bat. CRR: 3.49'}
+2021-02-13 14:53:14.406252  {}
