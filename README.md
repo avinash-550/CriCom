@@ -13,6 +13,7 @@ To start a coverage of live match going on, write
 ```
 teama vs teamb
 ```
+Use names mentioned on - [ESPN live](https://www.espncricinfo.com/live-cricket-score)
 
 Ex. india vs sri lanka
 
@@ -20,7 +21,7 @@ Ex. india vs sri lanka
 
 
 
-The bot will start the coverage till application is closed. It gives commentary over each delivery.
+The bot will start the coverage till application is closed. It gives commentary over each delivery. Match should be shown as live on ESPN live, otherwise it will show 'match not live yet'.
 
 
 
@@ -29,3 +30,10 @@ The bot will start the coverage till application is closed. It gives commentary 
 * Consumes very less data.
 * Natural bot voice and crowd sounds to add to the feel.
 * Updated live scores.
+
+# Note
+* Install dependencies using requirements.txt
+```python
+pip install -r requirements.txt
+```
+* Replace chromedriver.exe to match your Google chrome current version.
