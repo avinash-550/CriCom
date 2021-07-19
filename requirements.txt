@@ -1,0 +1,6 @@
+pyttsx3==2.81
+requests==2.22.0
+pygame==2.0.1
+PyQt5==5.15.4
+selenium==3.141.0
+undetected_chromedriver==3.0.2
